@@ -1,77 +1,41 @@
-# 🎓 CodeRyse Academy — Planejamento e Modelagem
+# 🎓 Engenharia-de-Software-gil-Aplicada — Planejamento e Modelagem
 
-Protótipo de interface desenvolvido como Projeto Integrado Multidisciplinar (PIM 3) da UNIP.  
-Simula o painel acadêmico de uma plataforma de ensino digital com controle de acesso por perfil.
 
----
-
-## 🛠️ Tecnologias
-
-- ⚛️ **React 19** + ⚡ **Vite 8**
-- 🎨 CSS puro com variáveis customizadas (tema escuro)
-- 📦 Sem bibliotecas de UI externas
-- 🗃️ Dados simulados (mock) — sem backend
+**Plataforma de ensino digital com gestão acadêmica completa**
 
 ---
 
-## 👥 Perfis de acesso
+## 📋 Sobre o Projeto
 
-| Perfil | Acesso |
+O **CodeRyse Academy** é um protótipo de painel acadêmico desenvolvido como **Projeto Integrado Multidisciplinar III (PIM 3)** do curso de Análise e Desenvolvimento de Sistemas da **UNIP**.
+
+A plataforma simula um sistema completo de gestão educacional para cursos de tecnologia, com controle de acesso por perfil de usuário, acompanhamento de progresso e gerenciamento de conteúdo — tudo com tema escuro e interface moderna.
+
+---
+
+## ✨ Funcionalidades
+
+### 🔐 Controle de Acesso por Perfil
+| Perfil | Permissões |
 |---|---|
-| 🔴 **Admin** | Controle total da plataforma |
-| 🟠 **Coordenador** | Gestão de cursos, turmas, alunos e professores |
-| 🟡 **Professor** | Lança avaliações e conteúdos; visualiza alunos e turmas |
-| 🟢 **Aluno** | Acompanha matrículas, conteúdos, avaliações e progresso |
+| 👑 **Admin** | Controle total da plataforma |
+| 🗂️ **Coordenador** | Gestão de cursos e turmas |
+| 👨‍🏫 **Professor** | Lançamento de avaliações e conteúdo |
+| 🎓 **Aluno** | Acesso a cursos e progresso pessoal |
 
+
+### 🎯 Trilhas de Aprendizado Disponíveis
+`Web Development` • `Ciência de Dados` • `Inteligência Artificial` • `Cybersegurança` • `UX/UI Design` • `Robótica`
 ---
 
-## 🗂️ Seções da plataforma
+## 📁 Artefatos do Projeto
 
-- 📊 Panorama (dashboard por perfil)
-- 👤 Usuários · Alunos · Professores · Coordenadores
-- 📚 Cursos · Módulos · Turmas
-- 📝 Matrículas · Avaliações · Quiz · Conteúdos · Progresso
-
----
-
-## 🚀 Como executar
-
-```bash
-# Instalar dependências
-npm install
-
-# Iniciar servidor de desenvolvimento
-npm run dev
-
-# Gerar build de produção
-npm run build
-```
-
-Acesse `http://localhost:5173` após iniciar o servidor.
-
----
-
-## 📁 Estrutura do projeto
-
-```
-src/
-├── ativos/          # 🖼️ Imagens dos cursos e banner
-├── componentes/     # 🧩 Componentes reutilizáveis (Modal, Tabela, Insignia...)
-├── dados/           # 🗃️ Dados mock e sistema de permissões (RBAC)
-├── estilos/         # 🎨 CSS global e estilos de páginas
-└── paginas/         # 📄 Telas da aplicação
-```
-
----
-
-## 📖 Cursos disponíveis
-
-1. 🌐 Desenvolvimento Web
-2. 📊 Ciência de Dados
-3. 🤖 Inteligência Artificial
-4. 🔐 Cybersegurança
-5. 🎨 UX e UI Design
-6. 🦾 Robótica
+| 📄 Arquivo | 📌 Descrição |
+|---|---|
+| `Astah_Pim3_Krigor.asta` | Diagrama UML — classes e casos de uso |
+| `Product_Backlog_PIM.xlsx` | Backlog do produto (metodologia ágil Scruum) |
+| `DEVOPS.xlsx` | Planejamento e práticas de DevOps |
+| `EGYDIO TAREFA.xlsx` | Documentação de tarefas e entregas |
 
 ---
 
