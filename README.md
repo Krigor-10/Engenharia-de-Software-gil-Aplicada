@@ -34,7 +34,8 @@ A plataforma simula um sistema completo de gestão educacional para cursos de te
 | `EGYDIO TAREFA.xlsx` | Documentação de tarefas e entregas |
 
 ---
-
+Link do repósitório com o projeto completo: https://github.com/Krigor-10/Projeto-PIM-3--semestre.git
+---
 ## 👨‍💻 Desenvolvido por
 
 **Krigor Nasare** — Análise e Desenvolvimento de Sistemas, UNIP  
