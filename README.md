@@ -1,4 +1,4 @@
-# 🎓 CodeRyse Academy — Protótipo Frontend PIM 3
+# 🎓 CodeRyse Academy — Planejamento e Modelagem
 
 Protótipo de interface desenvolvido como Projeto Integrado Multidisciplinar (PIM 3) da UNIP.  
 Simula o painel acadêmico de uma plataforma de ensino digital com controle de acesso por perfil.
