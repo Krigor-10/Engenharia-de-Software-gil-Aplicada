@@ -24,10 +24,6 @@ A plataforma simula um sistema completo de gestão educacional para cursos de te
 | 🎓 **Aluno** | Acesso a cursos e progresso pessoal |
 
 
-### 🎯 Trilhas de Aprendizado Disponíveis
-`Web Development` • `Ciência de Dados` • `Inteligência Artificial` • `Cybersegurança` • `UX/UI Design` • `Robótica`
----
-
 ## 📁 Artefatos do Projeto
 
 | 📄 Arquivo | 📌 Descrição |
@@ -42,4 +38,4 @@ A plataforma simula um sistema completo de gestão educacional para cursos de te
 ## 👨‍💻 Desenvolvido por
 
 **Krigor Nasare** — Análise e Desenvolvimento de Sistemas, UNIP  
-PIM 3 — 3º Semestre · 2024
+PIM 3 — 3º Semestre · 2026
